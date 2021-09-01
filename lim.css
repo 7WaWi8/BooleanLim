@@ -1,0 +1,76 @@
+/* Esercizio 5 - Lim: esercizio ammissione corso Boolean */
+
+/* Box di classe 1  */
+
+body {
+font-family: 'Roboto', sans-serif;
+background-image: url("backgroundlim.jpg");
+background-repeat: no-repeat;
+background-position: 0 0;
+background-size: cover;
+}
+
+/* Box di classe 2 */
+
+.bigbox {
+width: 1000px; height: 670px; margin: auto; background-color: #00000070; opacity: 1; border-radius: 15px 15px 15px 15px; padding-top: 15px;
+}
+
+/* Apertura/testa sito */
+
+#logolim {
+width: 20%; margin-bottom: 0px;padding-bottom: 0px;margin-top: 80px; margin-left: 400px; margin-right: 400px;
+}
+
+.title {
+color: lime; margin-left: 325px; margin-top: -0.00px; border-top-width: 0px; border-top-style: solid;margin-bottom: 0px;
+}
+
+.nav {
+background-color: lime; border-radius: 0px 0px 0px 0px; padding-top: 7px; margin-top: 10px; margin-bottom: 20px; padding-bottom: 7px; margin-left: 150px; margin-right: 150px;
+}
+
+.button1 {
+margin-left: 195px; padding-top: 0px; border-radius: 0px 0px 0px 0px;
+}
+
+.button2 {
+padding-top: 0px; border-radius: 0px 0px 0px 0px;
+}
+
+.button3 {
+padding-top: 0px; border-radius: 0px 0px 0px 0px;
+}
+
+h3 {
+color: white; display: inline-block; margin-top: 0px; margin-bottom: 0px;
+}
+
+/* Corpo principale/Sottosezioni */
+
+.section {
+color: white; padding-left: 0px; margin-left: 150px;
+}
+
+.testo1 {
+margin-bottom: 0px; margin-top: 0px;
+}
+
+.testo2 {
+margin-top: 0px; margin-bottom: 0px;
+}
+
+.battery1 {
+background-color: yellow; height: 20px; margin-top: 0px;
+margin-right: 650px; border-radius: 5px 5px 5px 5px;
+}
+
+.battery2 {
+background-color: #3ef23e; height: 20px; margin-top: 0px;
+margin-right: 450px; border-radius: 5px 5px 5px 5px;
+}
+
+.battery3 {
+background-color: red; height: 20px; margin-top: 0px;
+margin-right: 750px; border-radius: 5px 5px 5px 5px;
+}
